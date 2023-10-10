@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "niqZeemrgfdcLTUFNnwDaF",
+      "name": "Nieuwe todo",
+      "description": null,
+      "state": "open",
+      "startedAt": null,
+      "finishedAt": null,
+      "createdAt": "2023-09-19T06:57:42.193Z",
+      "lastUpdatedAt": "2023-09-19T06:57:42.193Z",
+      "comments": []
+    }
+  ],
+  "active_task_id": null
+}
