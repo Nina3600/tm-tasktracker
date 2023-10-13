@@ -26,3 +26,8 @@ jobs:
       run: |
         npm install
         npm run test:coverage
+        
+    - uses: actions/upload-artifact@v3
+      with:
+       name: my-artifact
+       path: coverage/tmp/
